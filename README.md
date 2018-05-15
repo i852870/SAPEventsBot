@@ -5,6 +5,7 @@ SAP events assistant is built using recast.ai, currently acquired by SAP. SAP ev
 
 ![chatbot](https://user-images.githubusercontent.com/24690198/40073667-7e64f16c-5845-11e8-8472-6ea826bd6951.png)
 
+Demo Video: https://drive.google.com/open?id=1EykfqKUP3gqQeWYKKahJtSmk9YdXDWBo
 
 # To chat with this bot:
 
